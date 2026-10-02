@@ -44,9 +44,9 @@ results are not meant to match the paper exactly.
 ## Key results
 
 **A "vague" prior is not vague in observable space.** A prior that only says
-the parameters are of natural size ($\mathcal{N}(0, 5^2)$) puts 38% of the
+the parameters are of natural size ($`\mathcal{N}(0, 5^2)`$) puts 38% of the
 probability on a ⁴He nucleus that is bound more than three times as strongly as
-the real one. The prior predictive spread is $10^2$ to $10^5$ times larger than
+the real one. The prior predictive spread is $`10^2`$ to $`10^5`$ times larger than
 the experimental errors.
 
 **Without the model error, the data are inconsistent.** Each observable alone
